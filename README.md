@@ -69,7 +69,7 @@
 
 <div data-importer="streak" align="left">
   <img height="180" alt="Nolawi's contribution streak"
-    src="https://streak-stats.demolab.com?user=nolawimelese&theme=cobalt&hide_border=true" />
+    src="https://raw.githubusercontent.com/nolawimelese/nolawimelese/streak-output/streak.svg" />
 </div>
 
 ###
