@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">CMDA student at Virginia Tech. <br><br>📚 I'm interested in data science, machine learning, and predictive modeling. Ultimately I want to build things where the intelligence behind them makes a real difference.<br><br>🌱 Currently building my SQL and database design skills. I'm also experimenting in <a href="https://github.com/nolawimelese/the-lab" target="_blank" rel="noreferrer">the lab</a> with other fields of computer science like web development, UI design, and lower-level programming like C and C++.<br><br>✨ I like building things and writing code that does something useful. Right now I'm working on <a href="https://github.com/nolawimelese/mario-kart-picker" target="_blank" rel="noreferrer">MKStratPicker</a>, a strategy recommendation app for Mario Kart (which I take very seriously).<br><br>📫 Connect with me on <a href="https://www.linkedin.com/in/nolawi-melese/" target="_blank" rel="noreferrer">LinkedIn</a> or reach me at nolawimelese@vt.edu</p>
+<p data-importer="text" align="left">CMDA student at Virginia Tech. <br><br>📚 I'm interested in data science, machine learning, and predictive modeling. Ultimately I want to build things where the intelligence behind them makes a real difference.<br><br>🌱 Currently building my SQL and database design skills. I'm also experimenting in <a href="https://github.com/nolawimelese/the-lab" target="_blank" rel="noreferrer">the lab</a> with other fields of computer science like web development, UI design, and lower-level programming in C and C++.<br><br>✨ I like building things and writing code that does something useful. Right now I'm working on <a href="https://github.com/nolawimelese/mario-kart-picker" target="_blank" rel="noreferrer">MKStratPicker</a>, a strategy recommendation app for Mario Kart (which I take very seriously).<br><br>📫 Connect with me on <a href="https://www.linkedin.com/in/nolawi-melese/" target="_blank" rel="noreferrer">LinkedIn</a> or reach me at nolawimelese@vt.edu</p>
 
 ###
 
@@ -23,13 +23,9 @@
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -37,7 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
 ###
